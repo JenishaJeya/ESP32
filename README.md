@@ -8,3 +8,6 @@ in the development cycle.
 
 More information about PlatformIO Unit Testing:
 - https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+The system  register and store data (Temperature, Humidity, and Light) from the ESP32 Edge device.he ESP32 is programmed to capture real-time data on temperature, humidity, and light.Used to gather sensor data on Temperature, Humidity, and Light.
+Contains the program that reads sensor data and sends it to the Node.js API
